@@ -67,6 +67,23 @@ O app utiliza uma paleta de cores personalizada com destaque para o vermelho FIA
 IMC = Peso (kg) / (Altura (m))²
 ```
 
+## 📸 Screenshots e Testes
+
+### Interface Principal
+*Adicione aqui os prints da tela inicial do app*
+
+### Teste de Cálculo - Peso Ideal
+*Adicione aqui os prints do teste com peso ideal (IMC entre 18.5-24.9)*
+
+### Teste de Cálculo - Sobrepeso
+*Adicione aqui os prints do teste com sobrepeso (IMC entre 25.0-29.9)*
+
+### Teste de Cálculo - Obesidade
+*Adicione aqui os prints do teste com obesidade (IMC ≥ 30.0)*
+
+### Teste de Cálculo - Abaixo do Peso
+*Adicione aqui os prints do teste com abaixo do peso (IMC < 18.5)*
+
 ## 🔧 Configurações de Build
 - **Namespace**: `samuelaguiarr.com.github.androidimc`
 - **Application ID**: `samuelaguiarr.com.github.androidimc`
