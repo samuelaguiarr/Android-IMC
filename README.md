@@ -70,31 +70,18 @@ IMC = Peso (kg) / (Altura (m))²
 ## 📸 Screenshots e Testes
 
 ### Interface Principal
-*Adicione aqui os prints da tela inicial do app*
+<img width="235" height="533" alt="image" src="https://github.com/user-attachments/assets/5d7c055f-2c69-44f0-8f26-87b5c9f3d520" />
+
 
 ### Teste de Cálculo - Peso Ideal
-*Adicione aqui os prints do teste com peso ideal (IMC entre 18.5-24.9)*
+<img width="233" height="535" alt="image" src="https://github.com/user-attachments/assets/4849bb5f-26e4-4d6d-aca0-fb8c638c7ead" />
 
-### Teste de Cálculo - Sobrepeso
-*Adicione aqui os prints do teste com sobrepeso (IMC entre 25.0-29.9)*
+### Teste de Cálculo - Levemente acima do peso
+<img width="235" height="530" alt="image" src="https://github.com/user-attachments/assets/41d28ab1-def8-43a0-9346-fc5164f14e29" />
 
 ### Teste de Cálculo - Obesidade
-*Adicione aqui os prints do teste com obesidade (IMC ≥ 30.0)*
+<img width="235" height="523" alt="image" src="https://github.com/user-attachments/assets/fa9371da-1a43-491f-b095-f629dab847a5" />
+
 
 ### Teste de Cálculo - Abaixo do Peso
-*Adicione aqui os prints do teste com abaixo do peso (IMC < 18.5)*
-
-## 🔧 Configurações de Build
-- **Namespace**: `samuelaguiarr.com.github.androidimc`
-- **Application ID**: `samuelaguiarr.com.github.androidimc`
-- **Version Code**: 1
-- **Version Name**: 1.0
-
-## 📄 Licença
-Este projeto foi desenvolvido para fins educacionais como parte do curso de desenvolvimento Android.
-
-## 📞 Contato
-Para dúvidas ou sugestões, entre em contato com a equipe de desenvolvimento.
-
----
-*Desenvolvido com ❤️ pela equipe FIAP*
+<img width="241" height="527" alt="image" src="https://github.com/user-attachments/assets/00e13c93-a538-4101-ae40-69d5b1715980" />
